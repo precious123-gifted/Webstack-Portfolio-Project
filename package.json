@@ -1,7 +1,7 @@
 {
     "name": "Tutors-app",
     "version": "0.1.2",
-    "homepage": "",
+    "homepage": "https://precious123-gifted.github.io/Webstack-Portfolio-Project/",
     "private": true,
     "dependencies": {
         "gsap": "^3.11.2",
